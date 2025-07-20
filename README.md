@@ -1,16 +1,25 @@
-## Hi there 👋
+# About me
 
-<!--
-**tivcoder/tivcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Currently Working On:
+- 🔁 Refreshing my **AWS Solutions Architect Associate** certification
+- ☁️ Preparing for the **AWS SysOps Administrator** certification
+- 🧪 Building hands-on **cybersecurity labs** (SOC & SIEM focused)
+- 🔐 Studying for **entry-level cloud engineer roles**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Certifications
+- ✅ RHCSA (expired, renewing soon)
+- ✅ CompTIA Security+
+- ✅ (ISC)² Certified in Cybersecurity (CC)
+- 🏗️ AWS SAA (expired; currently refreshing)
+
+---
+
+### 🧰 Tech Stack & Tools
+```bash
+Cloud      : AWS, Azure (beginner)
+Security   : Wireshark, Snort, Splunk, Nessus
+Scripting  : Bash, Python (learning)
+OS         : Linux (RHEL/CentOS), Windows
+DevOps     : Git, Docker, Terraform (learning)
